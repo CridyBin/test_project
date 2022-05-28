@@ -1,4 +1,6 @@
 h1 {
-    color: red;
+    margin: 0;
+    padding: 0;
+    background-color: cyan;
     font-weight: 200;
 }
